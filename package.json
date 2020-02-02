@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-app-icon-changer.git"
+    "url": "git+https://github.com/andregrillo/cordova-plugin-app-icon-changer.git"
   },
   "keywords": [
     "Icon Changer",
@@ -28,7 +28,7 @@
   "author": "Andre Grillo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EddyVerbruggen/cordova-plugin-app-icon-changer/issues"
+    "url": "https://github.com/andregrillo/cordova-plugin-app-icon-changer.git"
   },
-  "homepage": "https://github.com/EddyVerbruggen/cordova-plugin-app-icon-changer#readme"
+  "homepage": "https://github.com/andregrillo/cordova-plugin-app-icon-changer#readme"
 }

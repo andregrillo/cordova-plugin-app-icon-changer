@@ -114,17 +114,17 @@ The third activity-alias below is the default entry.  This will be the icon that
     <source-file src="src/android/AppIconChanger.java" target-dir="src/com/outsystems/iconchanger" />
     <source-file src="src/android/AppIconNameChanger.java" target-dir="src/com/outsystems/iconchanger" />
 
-    <!-- Icons: MUST BE CHANGED! Please read the instructions in the README.md file -->
+    <!-- Icons -->
     <source-file src="res/appIconChanger/redapple.png" target-dir="app/src/main/res/drawable-port-xxhdpi"/>
     <source-file src="res/appIconChanger/blueapple.png" target-dir="app/src/main/res/drawable-port-xxhdpi"/>
     <source-file src="res/appIconChanger/greenapple.png" target-dir="app/src/main/res/drawable-port-xxhdpi"/>
 
-    <!-- Setting the Default Icon: MUST BE CHANGED! Please read the instructions in the README.md file -->
+    <!-- Setting the Default Icon -->
     <config-file target="res/values/strings.xml" parent="/*">
       <string name="default_icon_id">redapple</string>
     </config-file>
 
-    <!-- Add the activity aliases: MUST BE CHANGED! Please read the instructions in the README.md file -->
+    <!-- Add the activity aliases -->
     <config-file target="AndroidManifest.xml" parent="application">
         <activity-alias 
           android:enabled="false" 

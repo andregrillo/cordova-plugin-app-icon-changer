@@ -12,7 +12,7 @@ Just "git clone" the repository, and using Android Studio, open the `Demo/platfo
 
 ## Installation
 
-You must fork or "git clone" the repository, make the changes described below and import the plugin using one of the following commands:
+You must fork, clone or download the repository, make the changes described below and import the plugin using one of the following commands:
 ```
 $ cordova plugin add your-forked-repository-url.git
 ```

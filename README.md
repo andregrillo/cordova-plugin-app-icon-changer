@@ -1,6 +1,6 @@
 # Cordova App Icon Changer for Android
 
-Powered by  
+###### Powered by  
 ![OutSystems][oslogo-image]
 
 [oslogo-image]:https://www.outsystems.com/-/media/themes/outsystems/website/site-theme/imgs/logo.svg

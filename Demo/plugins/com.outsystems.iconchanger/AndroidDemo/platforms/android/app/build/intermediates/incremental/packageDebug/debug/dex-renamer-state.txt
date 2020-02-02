@@ -1,4 +1,0 @@
-#Sat Feb 01 23:27:23 WET 2020
-base.0=/Users/andregrillo/Documents/Outsystems/Clientes/Credibility/Entrega/LastTest/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

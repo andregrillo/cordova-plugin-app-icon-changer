@@ -1,0 +1,68 @@
+{
+  "_from": "cordova-plugin-settings-hook@>=0.2.7",
+  "_id": "cordova-plugin-settings-hook@0.3.1",
+  "_inBundle": false,
+  "_integrity": "sha512-TV8ocfBPo5kuR9i5BScfKRTFwvbn0hSyjKkMNuot3nN2stJfH7LkpiV+vMq+IMIUUlx0nm0n3dP9lWRrIGpvow==",
+  "_location": "/cordova-plugin-settings-hook",
+  "_phantomChildren": {
+    "xmldom": "0.1.31"
+  },
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-settings-hook@>=0.2.7",
+    "name": "cordova-plugin-settings-hook",
+    "escapedName": "cordova-plugin-settings-hook",
+    "rawSpec": ">=0.2.7",
+    "saveSpec": null,
+    "fetchSpec": ">=0.2.7"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-settings-hook/-/cordova-plugin-settings-hook-0.3.1.tgz",
+  "_shasum": "0fc246966734d79f4a12c4c0f7f02822458544a7",
+  "_spec": "cordova-plugin-settings-hook@>=0.2.7",
+  "_where": "/Users/andregrillo/Documents/Outsystems/Clientes/Credibility/Entrega/LastTest",
+  "author": {
+    "name": "Mirco Cipriani"
+  },
+  "bugs": {
+    "url": "https://github.com/mircoc/cordova-plugin-settings-hook/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-settings-hook",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "elementtree": "^0.1.7",
+    "plist": "^2.1.0"
+  },
+  "deprecated": false,
+  "description": "Cordova plugin helpful to modify Android and iOS settings with config.xml parameters.\n    \tBased on the work of Devin Jett and Diego Netto on generator-ionic",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "homepage": "https://github.com/mircoc/cordova-plugin-settings-hook",
+  "keywords": [
+    "cordova",
+    "configuration",
+    "ecosystem:cordova"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-settings-hook",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mircoc/cordova-plugin-settings-hook.git"
+  },
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "version": "0.3.1"
+}

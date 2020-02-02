@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/andregrillo/Documents/Outsystems/Clientes/Credibility/PluginFinal/UltimoTeste2/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/andregrillo/Documents/Outsystems/Clientes/Credibility/PluginFinal/UltimoTeste2/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,2,5,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "164,55,228,105",
+                        "endColumns": "63,49,52,58",
+                        "endOffsets": "223,100,276,159"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,119,169,222",
+                        "endColumns": "63,49,52,58",
+                        "endOffsets": "114,164,217,276"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com.outsystems.iconchanger": {
+    "source": {
+      "type": "local",
+      "path": "/Users/andregrillo/Documents/Outsystems/Clientes/Credibility/PluginFinal/UltimoTeste2/node_modules/cordova-plugin-app-icon-changer"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-settings-hook": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-settings-hook@>=0.2.7"
+    },
+    "is_top_level": false,
+    "variables": {}
+  }
+}

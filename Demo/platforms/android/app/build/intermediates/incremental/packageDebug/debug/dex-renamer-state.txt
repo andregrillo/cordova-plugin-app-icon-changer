@@ -1,0 +1,4 @@
+#Sun Feb 02 02:18:00 WET 2020
+base.0=/Users/andregrillo/Documents/Outsystems/Clientes/Credibility/PluginFinal/UltimoTeste2/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -49,7 +49,7 @@ We need to somehow reference what the name of the default icon is.  This will be
 
 Here's where the different icons are referenced.  We need to create an Activity-Alias for each icon (Look inside the `<config-file target="AndroidManifest.xml" parent="application">` section.  Looking at the first activity-alias below, you should note the following:
 1. All activity-alias entries need to be set to enabled="false" except the one for the default entry;
-2. The name needs to be set using the following syntax: .Main Activity Name__icon_name (there is a period at the beginning of the name, followed by the Main Activity Name you have set, there's then two underscores followed by the icon filename with no extension);
+2. The name needs to be set using the following syntax: .MainActivityName__icon_name (there is a period at the beginning of the name, followed by the Main Activity Name you have set, there's then two underscores followed by the icon filename with no extension);
 3. The target activity needs to be set to the same name as the Main Activity (including the period prefix);
 4. The icon needs to be set to the proper filename and storage location that you have set in the resource-file inclusion above.  The default location is the drawable folder.
 	

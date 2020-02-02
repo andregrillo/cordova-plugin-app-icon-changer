@@ -4,7 +4,7 @@
 ![OutSystems][oslogo-image]
 
 [oslogo-image]:https://www.outsystems.com/-/media/themes/outsystems/website/site-theme/imgs/logo.svg
-
+  
 ## Installation
 
 You must fork or "git clone" the repository, make the changes described below and import the plugin using one of the following commands:

@@ -4,7 +4,12 @@
 ![OutSystems][oslogo-image]
 
 [oslogo-image]:https://www.outsystems.com/-/media/themes/outsystems/website/site-theme/imgs/logo.svg
-  
+   
+
+## Demo
+We have packed a full working demo on this git.
+Just "git clone" the repository, and using Android Studio, open the `Demo/platforms/android` folder for your testing purposes.
+
 ## Installation
 
 You must fork or "git clone" the repository, make the changes described below and import the plugin using one of the following commands:

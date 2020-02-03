@@ -13,8 +13,8 @@
     <engine name="cordova" version=">=3.5.0"/>
   </engines>
 
-  <dependency id="cordova-plugin-settings-hook" version=">=0.2.7" />
-  
+  <dependency id="cordova-plugin-settings-hook" url="https://github.com/andregrillo/cordova-plugin-settings-hook.git#bug/installNodeDependecies" />
+
   <js-module name="AppIconChanger" src="www/AppIconChanger.js">
     <clobbers target="AppIconChanger"/>
   </js-module>
